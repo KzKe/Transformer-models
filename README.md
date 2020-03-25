@@ -12,4 +12,4 @@
 # Analysis
 | Paper| summary | 
 | ------ | ------ | 
-| Revealing the Dark Secrets of BERT（https://arxiv.org/abs/1908.08593） | ------ | 
+| Revealing the Dark Secrets of BERT(https://arxiv.org/abs/1908.08593)| ---- | 
